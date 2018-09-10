@@ -7,6 +7,34 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 ## Journal and Conference papers:
 
+### Distantly Supervised Datasets and Training Methods
+
+1. **Learning to Extract Relations from the Web using Minimal Supervision.**
+_Razvan C. Bunescu, Department of Computer Sciences._
+ACL 2007.
+[paper](http://www.aclweb.org/anthology/P07-1073)
+    > We present a new approach to relation extraction that requires only a handful of training examples. Given a few pairs of named entities known to exhibit or not exhibit a particular relation, bags of sentences containing the pairs are extracted from the web.
+
+1. **Distant Supervision for Relation Extraction without Labeled Data.**
+_Mike Mintz, Steven Bills, Rion Snow, Dan Jurafsky._
+ACL-IJCNLP 2009.
+[paper](http://delivery.acm.org/10.1145/1700000/1690287/p1003-mintz.pdf?ip=133.130.111.179&id=1690287&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536593813_babc29565c7133b1fe8fd5f467b3daf6)
+    > Our experiments use Freebase, a large semantic database of several thousand relations, to provide distant supervision.
+
+1. **Modeling Relations and Their Mentions without Labeled Text.**
+_Sebastian Riedel, Limin Yao, Andrew McCallum._
+ECML 2010.
+[paper](https://link.springer.com/content/pdf/10.1007%2F978-3-642-15939-8_10.pdf)
+    > We present a novel approach to distant supervision that can alleviate this problem based on the following two ideas: First, we use a factor graph to explicitly model the decision whether two entities are related, and the decision whether this relation is mentioned in a given sentence; second, we apply constraint-driven semi-supervision to train this model without any knowledge about which sentences express the relations in our training KB.
+
+1. **Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations.**
+_Raphael Hoffmann, Congle Zhang, Xiao Ling, Luke Zettlemoyer, Daniel S. Weld._
+ACL-HLT 2011.
+[paper](http://delivery.acm.org/10.1145/2010000/2002541/p541-hoffmann.pdf?ip=133.130.111.179&id=2002541&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536594661_4b61c377a78c4b4339d41cb438d8bdb8)
+    > This paper presents a novel approach for multi-instance learning with overlapping re- lations that combines a sentence-level extrac- tion model with a simple, corpus-level compo- nent for aggregating the individual facts.
+
+### Neural Encoders
+
 1. **Semantic Compositionality through Recursive Matrix-Vector Spaces.**
 _Richard Socher, Brody Huval, Christopher D. Manning, Andrew Y. Ng._
 EMNLP-CoNLL 2012.
