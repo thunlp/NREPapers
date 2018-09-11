@@ -49,7 +49,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
    _Iris Hendrickx , Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid O ́ Se ́aghdha, Sebastian Pado ́, Marco Pennacchiotti, Lorenza Romano, Stan Szpakowicz._
    Workshop on Semantic Evaluations, ACL 2009.
    [paper](http://delivery.acm.org/10.1145/1630000/1621986/p94-hendrickx.pdf?ip=133.130.111.179&id=1621986&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536636784_f0b60686e8866c0c08f63436f3ed81eb)
-   > This leads us to introduce a new task, which will be part of SemEval-2010: multi-way classification of mutually exclusive semantic relations between pairs of common nominals.
+      > This leads us to introduce a new task, which will be part of SemEval-2010: multi-way classification of mutually exclusive semantic relations between pairs of common nominals.
 
 ### Distantly Supervised Datasets and Training Methods
 
@@ -168,6 +168,6 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 8. **Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.**
   _Pengda Qin, Weiran Xu, William Yang Wang._
-  2018.
+    2018.
   [paper](https://arxiv.org/pdf/1805.09927.pdf)
     > We explore a deep reinforcement learning strategy to generate the false-positive indicator, where we automatically recognize false positives for each relation type without any supervised information.
