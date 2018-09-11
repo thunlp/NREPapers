@@ -18,7 +18,7 @@ ACL 2007.
 1. **Distant Supervision for Relation Extraction without Labeled Data.**
 _Mike Mintz, Steven Bills, Rion Snow, Dan Jurafsky._
 ACL-IJCNLP 2009.
-[paper](http://delivery.acm.org/10.1145/1700000/1690287/p1003-mintz.pdf?ip=133.130.111.179&id=1690287&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536593813_babc29565c7133b1fe8fd5f467b3daf6)
+[paper](http://delivery.acm.org/10.1145/1700000/1690287/p1003-mintz.pdf?ip=133.130.111.179&id=1690287&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536630304_c802fdeac941523f3207459f0142021b)
     > Our experiments use Freebase, a large semantic database of several thousand relations, to provide distant supervision.
 
 1. **Modeling Relations and Their Mentions without Labeled Text.**
