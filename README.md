@@ -11,12 +11,12 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 1. **A Survey of Deep Learning Methods for Relation Extraction.**
    _Shantanu Kumar._
-   Arxiv, 2017.
+   2017.
    [paper](https://arxiv.org/pdf/1705.03645.pdf)
 
 2. **Relation Extraction : A Survey.**
    _Sachin Pawara,b, Girish K. Palshikara, Pushpak Bhattacharyyab._
-   Arxiv, 2017.
+   2017.
    [paper](https://arxiv.org/pdf/1712.05191.pdf)
 
 
@@ -47,7 +47,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
    _Iris Hendrickx , Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid O ́ Se ́aghdha, Sebastian Pado ́, Marco Pennacchiotti, Lorenza Romano, Stan Szpakowicz._
-   Workshop on Semantic Evaluations, ACL 2009
+   Workshop on Semantic Evaluations, ACL 2009.
    [paper](http://delivery.acm.org/10.1145/1630000/1621986/p94-hendrickx.pdf?ip=133.130.111.179&id=1621986&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536636784_f0b60686e8866c0c08f63436f3ed81eb)
    > This leads us to introduce a new task, which will be part of SemEval-2010: multi-way classification of mutually exclusive semantic relations between pairs of common nominals.
 
@@ -138,7 +138,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 3. **Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks.**
    _Xiaotian Jiang, Quan Wang, Peng Li, Bin Wang._
-   COLING 2016
+   COLING 2016.
    [paper](http://www.aclweb.org/anthology/C16-1139)
    > In this paper, we propose a multi-instance multi-label convolutional neural network for distantly supervised RE. It first relaxes the expressed-at-least-once assumption, and employs cross-sentence max-pooling so as to enable information sharing across different sentences.		
 
@@ -168,5 +168,6 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 8. **Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.**
   _Pengda Qin, Weiran Xu, William Yang Wang._
+  2018.
   [paper](https://arxiv.org/pdf/1805.09927.pdf)
     > We explore a deep reinforcement learning strategy to generate the false-positive indicator, where we automatically recognize false positives for each relation type without any supervised information.
