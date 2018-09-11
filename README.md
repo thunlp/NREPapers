@@ -48,7 +48,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
    _Iris Hendrickx , Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid O ́ Se ́aghdha, Sebastian Pado ́, Marco Pennacchiotti, Lorenza Romano, Stan Szpakowicz._
    Workshop on Semantic Evaluations, ACL 2009.
-   [paper](http://delivery.acm.org/10.1145/1630000/1621986/p94-hendrickx.pdf?ip=133.130.111.179&id=1621986&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536636784_f0b60686e8866c0c08f63436f3ed81eb)
+   [paper](http://www.aclweb.org/anthology/W09-2415)
       > This leads us to introduce a new task, which will be part of SemEval-2010: multi-way classification of mutually exclusive semantic relations between pairs of common nominals.
 
 ### Distantly Supervised Datasets and Training Methods
@@ -62,7 +62,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 2. **Distant Supervision for Relation Extraction without Labeled Data.**
   _Mike Mintz, Steven Bills, Rion Snow, Dan Jurafsky._
   ACL-IJCNLP 2009.
-  [paper](http://delivery.acm.org/10.1145/1700000/1690287/p1003-mintz.pdf?ip=133.130.111.179&id=1690287&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536630304_c802fdeac941523f3207459f0142021b)
+  [paper](https://www.aclweb.org/anthology/P09-1113)
     > Our experiments use Freebase, a large semantic database of several thousand relations, to provide distant supervision.
 
 3. **Modeling Relations and Their Mentions without Labeled Text.**
@@ -74,7 +74,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 4. **Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations.**
   _Raphael Hoffmann, Congle Zhang, Xiao Ling, Luke Zettlemoyer, Daniel S. Weld._
   ACL-HLT 2011.
-  [paper](http://delivery.acm.org/10.1145/2010000/2002541/p541-hoffmann.pdf?ip=133.130.111.179&id=2002541&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536594661_4b61c377a78c4b4339d41cb438d8bdb8)
+  [paper](http://www.aclweb.org/anthology/P11-1055)
     > This paper presents a novel approach for multi-instance learning with overlapping re- lations that combines a sentence-level extrac- tion model with a simple, corpus-level compo- nent for aggregating the individual facts.
 
 ### Embeddings
@@ -82,6 +82,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 1. **Distributed Representations of Words and Phrases and their Compositionality.**		
    _Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean._
    NIPS 2013.
+   [paper](Distributed Representations of Words and Phrases and their Compositionality)
    > In this paper we present several extensions that improve both the quality of the vectors and the training speed. By subsampling of the frequent words we obtain significant speedup and also learn more regular word representations. We also describe a simple alternative to the hierarchical softmax called negative sampling.
 
 2. **GloVe: Global Vectors for Word Representation.**
@@ -95,7 +96,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 1. **Semantic Compositionality through Recursive Matrix-Vector Spaces.**
   _Richard Socher, Brody Huval, Christopher D. Manning, Andrew Y. Ng._
   EMNLP-CoNLL 2012.
-  [paper](http://delivery.acm.org/10.1145/2400000/2391084/p1201-socher.pdf?ip=59.66.131.241&id=2391084&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1533972543_ff020f3c692b2117fa2230dfe7872f07)
+  [paper](https://ai.stanford.edu/~ang/papers/emnlp12-SemanticCompositionalityRecursiveMatrixVectorSpaces.pdf)
     > We introduce a recursive neural network (RNN) model that learns compositional vector representations for phrases and sentences of arbitrary syntactic type and length.
 
 2. **Convolution Neural Network for Relation Extraction**
