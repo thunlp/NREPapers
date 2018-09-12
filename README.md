@@ -82,7 +82,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 1. **Distributed Representations of Words and Phrases and their Compositionality.**		
    _Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean._
    NIPS 2013.
-   [paper](Distributed Representations of Words and Phrases and their Compositionality)
+   [paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
    > In this paper we present several extensions that improve both the quality of the vectors and the training speed. By subsampling of the frequent words we obtain significant speedup and also learn more regular word representations. We also describe a simple alternative to the hierarchical softmax called negative sampling.
 
 2. **GloVe: Global Vectors for Word Representation.**
