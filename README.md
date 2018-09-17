@@ -3,7 +3,7 @@ NRE: Neural Relation Extraction.
 
 Contributed by [Tianyu Gao](https://github.com/gaotianyu1350) and [Xu Han](https://github.com/THUCSTHanxu13).
 
-We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framework for neural relation extraction. This repository provides several relation extraction methods and a easy-to-use training and testing framework.
+We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framework for neural relation extraction. This repository provides several relation extraction methods and an easy-to-use training and testing framework.
 
 
 
@@ -11,12 +11,12 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 1. **A Survey of Deep Learning Methods for Relation Extraction.**
    _Shantanu Kumar._
-   Arxiv, 2017.
+   2017.
    [paper](https://arxiv.org/pdf/1705.03645.pdf)
 
 2. **Relation Extraction : A Survey.**
    _Sachin Pawara,b, Girish K. Palshikara, Pushpak Bhattacharyyab._
-   Arxiv, 2017.
+   2017.
    [paper](https://arxiv.org/pdf/1712.05191.pdf)
 
 
@@ -64,7 +64,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 2. **Distant Supervision for Relation Extraction without Labeled Data.**
   _Mike Mintz, Steven Bills, Rion Snow, Dan Jurafsky._
   ACL-IJCNLP 2009.
-  [paper](http://delivery.acm.org/10.1145/1700000/1690287/p1003-mintz.pdf?ip=133.130.111.179&id=1690287&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536630304_c802fdeac941523f3207459f0142021b)
+  [paper](https://www.aclweb.org/anthology/P09-1113)
     > Our experiments use Freebase, a large semantic database of several thousand relations, to provide distant supervision.
 
 3. **Modeling Relations and Their Mentions without Labeled Text.**
@@ -76,7 +76,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 4. **Knowledge-Based Weak Supervision for Information Extraction of Overlapping Relations.**
   _Raphael Hoffmann, Congle Zhang, Xiao Ling, Luke Zettlemoyer, Daniel S. Weld._
   ACL-HLT 2011.
-  [paper](http://delivery.acm.org/10.1145/2010000/2002541/p541-hoffmann.pdf?ip=133.130.111.179&id=2002541&acc=OPEN&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1536594661_4b61c377a78c4b4339d41cb438d8bdb8)
+  [paper](http://www.aclweb.org/anthology/P11-1055)
     > This paper presents a novel approach for multi-instance learning with overlapping re- lations that combines a sentence-level extrac- tion model with a simple, corpus-level compo- nent for aggregating the individual facts.
 
 ### Embeddings
@@ -84,6 +84,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 1. **Distributed Representations of Words and Phrases and their Compositionality.**		
    _Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg Corrado, Jeffrey Dean._
    NIPS 2013.
+   [paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
    > In this paper we present several extensions that improve both the quality of the vectors and the training speed. By subsampling of the frequent words we obtain significant speedup and also learn more regular word representations. We also describe a simple alternative to the hierarchical softmax called negative sampling.
 
 2. **GloVe: Global Vectors for Word Representation.**
@@ -97,7 +98,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 1. **Semantic Compositionality through Recursive Matrix-Vector Spaces.**
   _Richard Socher, Brody Huval, Christopher D. Manning, Andrew Y. Ng._
   EMNLP-CoNLL 2012.
-  [paper](http://delivery.acm.org/10.1145/2400000/2391084/p1201-socher.pdf?ip=59.66.131.241&id=2391084&acc=OPEN&key=BF85BBA5741FDC6E%2E587F3204F5B62A59%2E4D4702B0C3E38B35%2E6D218144511F3437&__acm__=1533972543_ff020f3c692b2117fa2230dfe7872f07)
+  [paper](https://ai.stanford.edu/~ang/papers/emnlp12-SemanticCompositionalityRecursiveMatrixVectorSpaces.pdf)
     > We introduce a recursive neural network (RNN) model that learns compositional vector representations for phrases and sentences of arbitrary syntactic type and length.
 
 2. **Convolution Neural Network for Relation Extraction**
@@ -118,9 +119,9 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
   [paper](https://www.aclweb.org/anthology/P15-1061)
     > In this work we tackle the relation classification task using a convolutional neural network that performs classification by ranking (CR-CNN).
 
-5. **Relation Extraction: Perspective from Convolutional Neural Networks.** 
-   Thien Huu Nguyen, Ralph Grishman._ 
-   NAACL-HLT 2015.
+5. **Relation Extraction: Perspective from Convolutional Neural Networks.**
+   _Thien Huu Nguyen, Ralph Grishman._
+   NAACL-HLT 2015
    [paper](http://www.aclweb.org/anthology/W15-1506)	
    > Our model takes advantages of multiple window sizes for filters and pre-trained word embeddings as an initializer on a non-static architecture to improve the performance. We emphasize the relation extraction problem with an unbalanced corpus.		
 
@@ -152,7 +153,7 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 3. **Relation Extraction with Multi-instance Multi-label Convolutional Neural Networks.**
    _Xiaotian Jiang, Quan Wang, Peng Li, Bin Wang._
-   COLING 2016
+   COLING 2016.
    [paper](http://www.aclweb.org/anthology/C16-1139)
    > In this paper, we propose a multi-instance multi-label convolutional neural network for distantly supervised RE. It first relaxes the expressed-at-least-once assumption, and employs cross-sentence max-pooling so as to enable information sharing across different sentences.		
 
@@ -181,5 +182,6 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 8. **Robust Distant Supervision Relation Extraction via Deep Reinforcement Learning.**
   _Pengda Qin, Weiran Xu, William Yang Wang._
+    2018.
   [paper](https://arxiv.org/pdf/1805.09927.pdf)
     > We explore a deep reinforcement learning strategy to generate the false-positive indicator, where we automatically recognize false positives for each relation type without any supervised information.
