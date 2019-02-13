@@ -237,3 +237,10 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
    [paper](http://aclweb.org/anthology/D17-1186)
 
      > We build inference chains between two target entities via intermediate entities, and propose a path-based neural relation extraction model to encode the relational semantics from both direct sentences and inference chains. 
+
+1. **RESIDE: Improving Distantly-Supervised Neural Relation Extractionusing Side Information**
+   _Shikhar Vashishth, Rishabh Joshi, Sai Suman Prayaga, Chiranjib Bhattacharyya, Partha Talukdar._
+   EMNLP 2018.
+   [paper](https://aclweb.org/anthology/D18-1157)
+
+     > In this paper, we propose RESIDE, a distantly-supervised neural relation extraction method which utilizes additional side  information from KBs for improved relation extraction. It uses entity type and relation alias information for imposing soft constraints while predicting relations.
