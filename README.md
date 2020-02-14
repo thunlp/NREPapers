@@ -180,3 +180,17 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski. 2019. **Matching the blanks: Distributional similarity for relation learning**. In Proceedings of ACL, pages 2895–2905. [[paper]](https://doi.org/10.18653/v1/P19-1279)
 1. Zhi-Xiu Ye and Zhen-Hua Ling. 2019. **Multi-level matching and aggregation network for few-shot relation classification**. In Proceedings of ACL, pages 2872–2881. [[paper]](https://doi.org/10.18653/v1/P19-1277)
 
+### Document-Level Relation Extraction
+
+1. Yuan Yao, Deming Ye, Peng Li, Xu Han, Yankai Lin, Zhenghao Liu, Zhiyuan Liu, Lixin Huang, Jie Zhou, and Maosong Sun. 2019. **DocRED: A large-scale document-level relation extraction dataset**. In Proceedings of ACL, pages 764–777. [[paper]](https://doi.org/10.18653/v1/P19-1074)
+1. Michael Wick, Aron Culotta, et al. 2006. **Learning field compatibilities to extract database records from unstructured text**. In Proceedings of EMNLP. [[paper]](https://www.aclweb.org/anthology/W06-1671.pdf)
+1. Matthew Gerber and Joyce Chai. 2010. **Beyond Nom-Bank: A study of implicit arguments for nominal predicates**. In Proceedings of ACL, pages 1583–1592. [[paper]](https://www.aclweb.org/anthology/P10-1160.pdf)
+1. Kumutha Swampillai and Mark Stevenson. 2011. **Extracting relations within and across sentences**. In Proceedings of RANLP. [[paper]](https://www.aclweb.org/anthology/R11-1004)
+1. Katsumasa Yoshikawa, Sebastian Riedel, et al. 2011. **Coreference based event-argument relation extraction on biomedical text**. J. Biomed. Semant. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3239306/)
+1. Chris Quirk and Hoifung Poon. 2017. **Distant supervision for relation extraction beyond the sentence boundary**. In Proceedings of EACL, pages 1171–1182. [[paper]](http://www.aclweb.org/anthology/E17-1110)
+1. Wenyuan Zeng, Yankai Lin, Zhiyuan Liu, and Maosong Sun. 2017. **Incorporating relation paths in neural relation extraction**. In Proceedings of EMNLP, pages 1768–1777. [[paper]](https://www.aclweb.org/anthology/D17-1186)
+1. Fenia Christopoulou, Makoto Miwa, and Sophia Ananiadou. 2018. **A walk-based model on entity graphs for relation extraction**. In Proceedings of ACL, pages 81–88. [[paper]](https://www.aclweb.org/anthology/P18-2014.pdf)
+1. Nanyun Peng, Hoifung Poon, Chris Quirk, Kristina Toutanova, and Wen-tau Yih. 2017. **Cross-sentence n-ary relation extraction with graph LSTMs**. TACL, 5:101–115. [[paper]](https://transacl.org/ojs/index.php/tacl/article/view/1028)
+1. Linfeng Song, Yue Zhang, et al. 2018. **N-ary relation extraction using graph-state lstm**. In Proceedings of EMNLP. [[paper]](https://www.aclweb.org/anthology/D18-1246)
+1. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, and Maosong Sun. 2019. **Graph neural networks with generated parameters for relation extraction**. In Proceedings of ACL, pages 1331–1339. [[paper]](https://doi.org/10.18653/v1/P19-1128)
+
