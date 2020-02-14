@@ -134,6 +134,35 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Shanchan Wu and Yifan He. 2019. **Enriching pre-trained language model with entity information for relation classification**. arXiv preprint arXiv:1905.08284. [[paper]](https://arxiv.org/abs/1905.08284)
 1. Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski. 2019. **Matching the blanks: Distributional similarity for relation learning**. In Proceedings of ACL, pages 2895–2905. [[paper]](https://doi.org/10.18653/v1/P19-1279)
 
+### Distant Supervision
+
+1. Mike Mintz, Steven Bills, Rion Snow, and Dan Jurafsky. 2009. **Distant supervision for relation extraction without labeled data**. In Proceedings of ACLIJCNLP, pages 1003–1011. [[paper]](https://www.aclweb.org/anthology/P09-1113.pdf)
+1. Truc-Vien T Nguyen and Alessandro Moschitti. 2011. **End-to-end relation extraction using distant supervision from external semantic repositories**. In Proceedings of ACL, pages 277–282. [[paper]](https://www.aclweb.org/anthology/P11-2048.pdf)
+1. Bonan Min, Ralph Grishman, Li Wan, Chang Wang, and David Gondek. 2013. **Distant supervision for relation extraction with an incomplete knowledge base**. In Proceedings of NAACL, pages 777–782. [[paper]](https://www.aclweb.org/anthology/N13-1095.pdf)
+
+#### Selecting Informative Instances
+
+1. Sebastian Riedel, Limin Yao, and Andrew McCallum. 2010. **Modeling relations and their mentions without labeled text**. In Proceedings of ECML-PKDD, pages 148–163. [[paper]](https://dl.acm.org/citation.cfm?id=1889799)
+1. Raphael Hoffmann, Congle Zhang, Xiao Ling, Luke Zettlemoyer, and Daniel S Weld. 2011. **Knowledgebased weak supervision for information extraction of overlapping relations**. In Proceedings of ACL, pages 541–550. [[paper]](https://www.aclweb.org/anthology/P11-1055.pdf)
+1. Mihai Surdeanu, Julie Tibshirani, Ramesh Nallapati, and Christopher D Manning. 2012. **Multi-instance multi-label learning for relation extraction**. In Proceedings of EMNLP, pages 455–465. [[paper]](https://www.aclweb.org/anthology/D12-1042.pdf)
+1. Daojian Zeng, Kang Liu, Yubo Chen, and Jun Zhao. 2015. **Distant supervision for relation extraction via piecewise convolutional neural networks**. In Proceedings of EMNLP, pages 1753–1762. [[paper]](http://www.emnlp2015.org/proceedings/EMNLP/pdf/EMNLP203.pdf)
+1. Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. 2016. **Neural relation extraction with selective attention over instances**. In Proceedings of ACL, pages 2124–2133. [[paper]](https://www.aclweb.org/anthology/P16-1200v2.pdf)
+1. Yuhao Zhang, Victor Zhong, Danqi Chen, Gabor Angeli, and Christopher D Manning. 2017. **Positionaware attention and supervised data improve slot filling**. In Proceedings of EMNLP, pages 35–45. [[paper]](https://nlp.stanford.edu/pubs/zhang2017tacred.pdf)
+1. Xu Han, Pengfei Yu, Zhiyuan Liu, Maosong Sun, and Peng Li. 2018c. **Hierarchical relation extraction with coarse-to-fine grained attention**. In Proceedings of EMNLP, pages 2236–2245. [[paper]](https://www.aclweb.org/anthology/D18-1247)
+1. Yang Li, Guodong Long, Tao Shen, Tianyi Zhou, Lina Yao, Huan Huo, and Jing Jiang. 2019. **Self attention enhanced selective gate with entity-aware embedding for distantly supervised relation extraction**. arXiv preprint arXiv:1911.11899. [[paper]](https://arxiv.org/pdf/1911.11899)
+1. Linmei Hu, Luhao Zhang, Chuan Shi, Liqiang Nie, Weili Guan, and Cheng Yang. 2019. **Improving distantly-supervised relation extraction with joint label embedding**. In Proceedings of EMNLP-IJCNLP, pages 3812–3820. [[paper]](https://www.aclweb.org/anthology/D19-1395.pdf)
+
+#### Incorporating Extra Context
+
+1. Guoliang Ji, Kang Liu, Shizhu He, Jun Zhao, et al. 2017. **Distant supervision for relation extraction with sentence-level attention and entity descriptions**. In AAAI, pages 3060–3066. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewPaper/14491)
+1. Xu Han, Zhiyuan Liu, and Maosong Sun. 2018b. **Neural knowledge acquisition via mutual attention between knowledge graph and text**. In Proceedings of AAAI. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16691/16013)
+1. Ningyu Zhang, Shumin Deng, Zhanlin Sun, Guanying Wang, Xi Chen, Wei Zhang, and Huajun Chen. 2019. **Long-tail relation extraction via knowledge graph embeddings and graph convolution networks**. In Proceedings of NAACL-HLT, pages 3016–3025. [[paper]](https://www.aclweb.org/anthology/N19-1306)
+1. Jianfeng Qu, Wen Hua, Dantong Ouyang, Xiaofang Zhou, and Ximing Li. 2019. **A fine-grained and noise-aware method for neural relation extraction**. In Proceedings of CIKM, pages 659–668. [[paper]](https://dl.acm.org/citation.cfm?id=3357384.3357997)
+1. Patrick Verga, David Belanger, Emma Strubell, Benjamin Roth, and Andrew McCallum. 2016. **Multilingual relation extraction using compositional universal schema**. In Proceedings of NAACL, pages 886–896. [[paper]](https://www.aclweb.org/anthology/N16-1103)
+1. Yankai Lin, Zhiyuan Liu, and Maosong Sun. 2017. **Neural relation extraction with multi-lingual attention**. In Proceedings of ACL, pages 34–43. [[paper]](https://www.aclweb.org/anthology/P17-1004.pdf)
+1. Xiaozhi Wang, Xu Han, Yankai Lin, Zhiyuan Liu, and Maosong Sun. 2018. **Adversarial multi-lingual neural relation extraction**. In Proceedings of COLING, pages 1156–1166. [[paper]](https://www.aclweb.org/anthology/C18-1099)
+
+------
 
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
    _Iris Hendrickx , Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid O ́ Se ́aghdha, Sebastian Pado ́, Marco Pennacchiotti, Lorenza Romano, Stan Szpakowicz._
