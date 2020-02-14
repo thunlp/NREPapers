@@ -80,16 +80,35 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 
 ### Neural Methods
 
-#### Recursive Neural Models
+#### Recursive Neural Networks
 
-1. Richard Socher, Brody Huval, Christopher D Manning,
-and Andrew Y Ng. 2012. Semantic compositionality
-through recursive matrix-vector spaces. In Proceedings
-of EMNLP, pages 1201–1211. [[paper]]()
-1. Makoto Miwa and Mohit Bansal. 2016. End-to-end relation
-extraction using lstms on sequences and tree
-structures. In Proceedings of ACL, pages 1105–
-1116. [[paper]]()
+1. Richard Socher, Brody Huval, Christopher D Manning, and Andrew Y Ng. 2012. **Semantic compositionality through recursive matrix-vector spaces**. In Proceedings of EMNLP, pages 1201–1211. [[paper]](https://www.aclweb.org/anthology/D12-1110)
+1. Makoto Miwa and Mohit Bansal. 2016. **End-to-end relation extraction using lstms on sequences and tree structures**. In Proceedings of ACL, pages 1105–1116. [[paper]](https://www.aclweb.org/anthology/P16-1105)
+
+#### Convolutional Neural Networks
+
+1. Chunyang Liu, Wenbo Sun, Wenhan Chao, and Wanxiang Che. 2013. **Convolution neural network for relation extraction**. In Proceedings of ICDM, pages 231–242. [[paper]](https://link.springer.com/content/pdf/10.1007%2F978-3-642-53917-6.pdf)
+1. Daojian Zeng, Kang Liu, Siwei Lai, Guangyou Zhou, and Jun Zhao. 2014. **Relation classification via convolutional deep neural network**. In Proceedings of COLING, pages 2335–2344. [[paper]](https://www.aclweb.org/anthology/C14-1220) 
+1. Cicero Nogueira dos Santos, Bing Xiang, and Bowen Zhou. 2015. **Classifying relations by ranking with convolutional neural networks**. In Proceedings of ACL-IJCNLP, pages 626–634. [[paper]](https://www.aclweb.org/anthology/P15-1061.pdf)
+1. Thien Huu Nguyen and Ralph Grishman. 2015. **Relation extraction: Perspective from convolutional neural networks**. In Proceedings of the NAACL Workshop on Vector Space Modeling for NLP, pages 39–48. [[paper]](https://www.aclweb.org/anthology/W15-1506)
+
+#### Recurrent Neural Networks
+
+1. Dongxu Zhang and Dong Wang. 2015. **Relation classification via recurrent neural network**. arXiv preprint arXiv:1508.01006. [[paper]](https://arxiv.org/abs/1508.01006)
+1. Thien Huu Nguyen and Ralph Grishman. 2015. **Combining neural networks and log-linear models to improve relation extraction**. arXiv preprint arXiv:1511.05926. [[paper]](https://arxiv.org/abs/1511.05926)
+1. Ngoc Thang Vu, Heike Adel, Pankaj Gupta, et al. 2016. **Combining recurrent and convolutional neural networks for relation classification**. In Proceedings of NAACL, pages 534–539. [[paper]](https://www.aclweb.org/anthology/N16-1065)
+1. Shu Zhang, Dequan Zheng, Xinchen Hu, and Ming Yang. 2015. **Bidirectional long short-term memory networks for relation classification**. In Proceedings of PACLIC, pages 73–78. [[paper]](https://www.aclweb.org/anthology/Y15-1009)
+
+#### Graph Neural Networks
+
+1. Yuhao Zhang, Peng Qi, and Christopher D. Manning. 2018. **Graph convolution over pruned dependency trees improves relation extraction**. In Proceedings of EMNLP, pages 2205–2215. [[paper]](http://aclweb.org/anthology/D18-1244)
+1. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, and Maosong Sun. 2019. **Graph neural networks with generated parameters for relation extraction**. In Proceedings of ACL, pages 1331–1339. [[paper]](https://doi.org/10.18653/v1/P19-1128)
+
+#### Attention
+
+1. Peng Zhou, Wei Shi, Jun Tian, Zhenyu Qi, Bingchen Li, Hongwei Hao, and Bo Xu. 2016. **Attention-based bidirectional long short-term memory networks for relation classification**. In Proceedings of ACL, pages 207–212. [[paper]](https://www.aclweb.org/anthology/P16-2034)
+1. Linlin Wang, Zhu Cao, Gerard De Melo, and Zhiyuan Liu. 2016. **Relation classification via multi-level attention cnns**. In Proceedings of ACL, pages 1298–1307. [[paper]](https://www.aclweb.org/anthology/P16-1123)
+1. Minguang Xiao and Cong Liu. 2016. **Semantic relation classification via hierarchical recurrent neural network with attention**. In Proceedings of COLING, pages 1254–1263. [[paper]](https://www.aclweb.org/anthology/C16-1119.pdf)
 
 
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
