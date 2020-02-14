@@ -171,3 +171,12 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Xiangrong Zeng, Shizhu He, Kang Liu, and Jun Zhao. 2018. **Large scaled relation extraction with reinforcement learning**. In Proceedings of AAAI, pages 5658–5665. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewPaper/16257)
 1. Yi Wu, David Bamman, and Stuart Russell. 2017. **Adversarial training for relation extraction**. In Proceeding of EMNLP, pages 1778–1783. [[paper]](https://www.aclweb.org/anthology/D17-1187)
 1. Xu Han, Zhiyuan Liu, and Maosong Sun. 2018. **Denoising distant supervision for relation extraction via instance-level adversarial training**. arXiv preprint arXiv:1805.10959. [[paper]](https://arxiv.org/pdf/1805.10959.pdf)
+
+### Few-Shot Learning
+
+1. Xu Han, Hao Zhu, Pengfei Yu, ZiyunWang, Yuan Yao, Zhiyuan Liu, and Maosong Sun. 2018d. **Fewrel: A large-scale supervised few-shot relation classification dataset with state-of-the-art evaluation**. In Proceedings of EMNLP, pages 4803–4809. [[paper]](https://www.aclweb.org/anthology/D18-1514)
+1. Tianyu Gao, Xu Han, Hao Zhu, Zhiyuan Liu, Peng Li, Maosong Sun, and Jie Zhou. 2019. **FewRel 2.0: Towards more challenging few-shot relation classification**. In Proceedings of EMNLP-IJCNLP, pages 6251–6256. [[paper]](https://doi.org/10.18653/v1/D19-1649)
+1. Tianyu Gao, Xu Han, Zhiyuan Liu, Maosong Sun. 2019. **Hybrid Attention-Based Prototypical Networks for Noisy Few-Shot Relation Classification**. In Proceedings of AAAI. [[paper]](https://www.aaai.org/ojs/index.php/AAAI/article/view/4604)
+1. Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski. 2019. **Matching the blanks: Distributional similarity for relation learning**. In Proceedings of ACL, pages 2895–2905. [[paper]](https://doi.org/10.18653/v1/P19-1279)
+1. Zhi-Xiu Ye and Zhen-Hua Ling. 2019. **Multi-level matching and aggregation network for few-shot relation classification**. In Proceedings of ACL, pages 2872–2881. [[paper]](https://doi.org/10.18653/v1/P19-1277)
+
