@@ -7,17 +7,9 @@ We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framewo
 
 ## Reviews
 
-1. **A Review of Relation Extraction**
-   _Nguyen Bach, Sameer Badaskar_.
-   [[paper]](https://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction.pdf)
-1. **A Survey of Deep Learning Methods for Relation Extraction.**
-   _Shantanu Kumar_.
-   2017.
-   [[paper]](https://arxiv.org/pdf/1705.03645.pdf)
-1. **Relation Extraction : A Survey.**
-   _Sachin Pawar, Girish K. Palshikara, Pushpak Bhattacharyyab_.
-   2017.
-   [[paper]](https://arxiv.org/pdf/1712.05191.pdf)
+1. Nguyen Bach, Sameer Badaskar. **A review of relation extraction**. [[paper]](https://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction.pdf)
+1. Shantanu Kumar. 2017. **A survey of deep learning methods for relation extraction**. [[paper]](https://arxiv.org/pdf/1705.03645.pdf)
+1. Sachin Pawar, Girish K. Palshikara, Pushpak Bhattacharyyab. 2017. **Relation extraction: a survey**. [[paper]](https://arxiv.org/pdf/1712.05191.pdf)
 
 ## Datasets
 
@@ -33,17 +25,26 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 
 1. **NYT Dataset**. [[link]](http://iesl.cs.umass.edu/riedel/ecml/) [[paper]](https://dl.acm.org/citation.cfm?id=1889799)
 
-### Few-shot Relation ExtractionDatasets
+### Few-shot Relation Extraction Datasets
 
 1. **FewRel**. [[link]](https://github.com/thunlp/fewrel) [[1.0 paper]](https://www.aclweb.org/anthology/D18-1514/) [[2.0 paper]](https://doi.org/10.18653/v1/D19-1649)
 
-### Document-Level Relation Extraction
+### Document-Level Relation Extraction Datasets
 
-1. **DocRED**. [link](https://github.com/thunlp/DocRED) [paper](https://www.aclweb.org/anthology/P19-1074/) 
+1. **DocRED**. [[link]](https://github.com/thunlp/DocRED) [[paper]](https://www.aclweb.org/anthology/P19-1074/) 
 
 ## Papers
 
-### Supervised Datasets
+### Pattern-Based Methods
+
+1. Stephen Soderland, David Fisher, Jonathan Aseltine, and Wendy Lehnert. 1995. **Crystal inducing a conceptual dictionary**. In Proceedings of IJCAI. [[paper]](https://www.ijcai.org/Proceedings/95-2/Papers/038.pdf)
+1. Jun-Tae Kim and Dan I. Moldovan. 1995. **Acquisition of linguistic patterns for knowledge-based information extraction**. TKDE. [[paper]](https://ieeexplore.ieee.org/abstract/document/469825/)
+1. Scott B Huffman. 1995. **Learning information extraction patterns from examples**. In Proceedings of IJCAI. [[paper]](https://doi.org/10.1007/3-540-60925-3_51v)
+1. Mary Elaine Califf and Raymond J. Mooney. 1997. **Relational learning of pattern-match rules for information extraction**. In Proceedings of CoNLL. [[paper]](https://www.aclweb.org/anthology/W97-1002)
+1. Andrew Carlson, Justin Betteridge, Bryan Kisiel, Burr Settles, Estevam R Hruschka, and Tom M Mitchell. 2010. **Toward an architecture for never-ending language learning**. In Proceedings of AAAI. [[paper]](https://doi.org/10.1007/3-540-60925-3_51)
+1. Ndapandula Nakashole, Gerhard Weikum, and Fabian Suchanek. 2012. **PATTY: A taxonomy of relational patterns with semantic types**. In Proceedings of EMNLP-CoNLL. [[paper]](https://www.aclweb.org/anthology/D12-1104)
+1. Shun Zheng, Xu Han, Yankai Lin, Peilin Yu, Lu Chen, Ling Huang, Zhiyuan Liu, and Wei Xu. 2019. **DIAG-NRE: A neural pattern diagnosis framework for distantly supervised neural relation extraction**. In Proceedings of ACL. [[paper]](https://doi.org/10.18653/v1/P19-1137)
+
 
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
    _Iris Hendrickx , Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid O ́ Se ́aghdha, Sebastian Pado ́, Marco Pennacchiotti, Lorenza Romano, Stan Szpakowicz._
