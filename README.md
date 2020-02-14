@@ -110,6 +110,30 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Linlin Wang, Zhu Cao, Gerard De Melo, and Zhiyuan Liu. 2016. **Relation classification via multi-level attention cnns**. In Proceedings of ACL, pages 1298–1307. [[paper]](https://www.aclweb.org/anthology/P16-1123)
 1. Minguang Xiao and Cong Liu. 2016. **Semantic relation classification via hierarchical recurrent neural network with attention**. In Proceedings of COLING, pages 1254–1263. [[paper]](https://www.aclweb.org/anthology/C16-1119.pdf)
 
+#### Word & Position Embedding
+
+1. Joseph Turian, Lev Ratinov, and Yoshua Bengio. 2010. **Word representations: a simple and general method for semi-supervised learning**. In Proceedings of ACL, pages 384–394. [[paper]](https://aclweb.org/anthology/P10-1040)
+1. Tomas Mikolov, Ilya Sutskever, Kai Chen, Greg S Corrado, and Jeff Dean. 2013. **Distributed representations of words and phrases and their compositionality**. In Proceedings of NIPS, pages 3111–3119. [[paper]](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+1. Daojian Zeng, Kang Liu, Siwei Lai, Guangyou Zhou, and Jun Zhao. 2014. **Relation classification via convolutional deep neural network**. In Proceedings of COLING, pages 2335–2344. [[paper]](https://www.aclweb.org/anthology/C14-1220)
+
+#### Shortest Dependency Path
+
+1. Yang Liu, Furu Wei, Sujian Li, Heng Ji, Ming Zhou, and WANG Houfeng. 2015. **A dependency-based neural network for relation classification**. In Proceedings of ACL-IJCNLP, pages 285–290. [[paper]](https://www.aclweb.org/anthology/P15-2047.pdf)
+1. Yan Xu, Lili Mou, Ge Li, Yunchuan Chen, Hao Peng, and Zhi Jin. 2015. **Classifying relations via long short term memory networks along shortest dependency paths**. In Proceedings of EMNLP, pages 1785–1794. [[paper]](https://www.aclweb.org/anthology/D15-1206)
+
+#### Universal Schema
+
+1. Patrick Verga, David Belanger, Emma Strubell, Benjamin Roth, and Andrew McCallum. 2016. **Multilingual relation extraction using compositional universal schema**. In Proceedings of NAACL, pages 886– 896. [[paper]](https://www.aclweb.org/anthology/N16-1103)
+1. Patrick Verga and Andrew McCallum. 2016. **Row-less universal schema**. In Proceedings of ACL, pages 63– 68. [[paper]](https://www.aclweb.org/anthology/W16-1312) 
+1. Sebastian Riedel, Limin Yao, Andrew McCallum, and Benjamin M Marlin. 2013. **Relation extraction with matrix factorization and universal schemas**. In Proceedings of NAACL, pages 74–84. [[paper]](https://www.aclweb.org/anthology/N13-1008.pdf)
+
+#### Transformer and BERT
+
+1. Jinhua Du, Jingguang Han, Andy Way, and Dadong Wan. 2018. **Multi-level structured self-attentions for distantly supervised relation extraction**. In Proceedings of EMNLP, pages 2216–2225. [[paper]](https://www.aclweb.org/anthology/D18-1245.pdf)
+1. Patrick Verga, Emma Strubell, and Andrew McCallum. 2018. **Simultaneously self-attending to all mentions for full-abstract biological relation extraction**. In Proceedings of NAACL-HLT, pages 872–884. [[paper]](https://www.aclweb.org/anthology/N18-1080)
+1. Shanchan Wu and Yifan He. 2019. **Enriching pre-trained language model with entity information for relation classification**. arXiv preprint arXiv:1905.08284. [[paper]](https://arxiv.org/abs/1905.08284)
+1. Livio Baldini Soares, Nicholas FitzGerald, Jeffrey Ling, and Tom Kwiatkowski. 2019. **Matching the blanks: Distributional similarity for relation learning**. In Proceedings of ACL, pages 2895–2905. [[paper]](https://doi.org/10.18653/v1/P19-1279)
+
 
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
    _Iris Hendrickx , Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid O ́ Se ́aghdha, Sebastian Pado ́, Marco Pennacchiotti, Lorenza Romano, Stan Szpakowicz._
