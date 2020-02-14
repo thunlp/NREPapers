@@ -194,3 +194,20 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Linfeng Song, Yue Zhang, et al. 2018. **N-ary relation extraction using graph-state lstm**. In Proceedings of EMNLP. [[paper]](https://www.aclweb.org/anthology/D18-1246)
 1. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, and Maosong Sun. 2019. **Graph neural networks with generated parameters for relation extraction**. In Proceedings of ACL, pages 1331–1339. [[paper]](https://doi.org/10.18653/v1/P19-1128)
 
+### Open Information Extraction
+
+1. Michele Banko, Michael J Cafarella, Stephen Soderland, Matthew Broadhead, and Oren Etzioni. 2007. **Open information extraction from the web**. In Proceedings of IJCAI, pages 2670–2676. [[paper]](https://www.aaai.org/Papers/IJCAI/2007/IJCAI07-429.pdf)
+1. Anthony Fader, Stephen Soderland, and Oren Etzioni. 2011. **Identifying relations for open information extraction**. In Proceedings of EMNLP, pages 1535–1545. [[paper]](https://www.aclweb.org/anthology/D11-1142)
+1. Mausam, Michael Schmitz, Stephen Soderland, Robert Bart, and Oren Etzioni. 2012. **Open language learning for information extraction**. In Proceedings of EMNLP-CoNLL, pages 523–534. [[paper]](https://www.aclweb.org/anthology/D12-1048)
+1. Luciano Del Corro and Rainer Gemulla. 2013. **Clausie: clause-based open information extraction**. In Proceedings of WWW, pages 355–366. [[paper]](https://dl.acm.org/citation.cfm?id=2488420)
+1. Gabor Angeli, Melvin Jose Johnson Premkumar, and Christopher D. Manning. 2015. **Leveraging linguistic structure for open domain information extraction**. In Proceedings of ACL-IJCNLP, pages 344–354. [[paper]](https://doi.org/10.3115/v1/P15-1034)
+1. Gabriel Stanovsky and Ido Dagan. 2016. **Creating a large benchmark for open information extraction**. In Proceedings of EMNLP, pages 2300–2305. [[paper]](https://doi.org/10.18653/v1/D16-1252)
+1. Mausam Mausam. 2016. **Open information extraction systems and downstream applications**. In Proceedings of IJCAI, pages 4074–4077. [[paper]](http://dl.acm.org/citation.cfm?id=3061053.3061220) 1. Lei Cui, Furu Wei, and Ming Zhou. 2018. Neural open information extraction. In Proceedings of ACL, pages 407–413. [[paper]](https://doi.org/10.18653/v1/P18-2065)
+
+### Relation Discovery
+
+1. Limin Yao, Aria Haghighi, Sebastian Riedel, and Andrew McCallum. 2011. **Structured relation discovery using generative models**. In Proceedings of EMNLP, pages 1456–1466. [[paper]](https://www.aclweb.org/anthology/D11-1135)
+1. Diego Marcheggiani and Ivan Titov. 2016. **Discretestate variational autoencoders for joint discovery and factorization of relations**. TACL, 4:231–244. [[paper]](https://doi.org/10.1162/tacl_a_00095)
+1. Yusuke Shinyama and Satoshi Sekine. 2006. **Preemptive information extraction using unrestricted relation discovery**. In Proceedings of NAACL, pages 304–311. [[paper]](https://www.aclweb.org/anthology/N06-1039.pdf)
+1. Hady Elsahar, Elena Demidova, Simon Gottschalk, Christophe Gravier, and Frederique Laforest. 2017. **Unsupervised open relation extraction**. In Proceedings of ESWC, pages 12–16. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-70407-4_3)
+1. Ruidong Wu, Yuan Yao, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. 2019. **Open relation extraction: Relational knowledge transfer from supervised data to unsupervised data**. In Proceedings of EMNLP-IJCNLP, pages 219–228. [[paper]](https://doi.org/10.18653/v1/D19-1021)
