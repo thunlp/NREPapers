@@ -65,7 +65,7 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 
 #### Graphical Models
 
-1. Dan Roth andWen-tau Yih. 2002. **Probabilistic reasoning for entity & relation recognition**. In Proceedings of COLING. [[paper]](https://www.aclweb.org/anthology/C02-1151)
+1. Dan Roth and Wen-tau Yih. 2002. **Probabilistic reasoning for entity & relation recognition**. In Proceedings of COLING. [[paper]](https://www.aclweb.org/anthology/C02-1151)
 1. Sunita Sarawagi and William W Cohen. 2005. **Semimarkov conditional random fields for information extraction**. In Proceedings of NIPS, pages 1185–1192. [[paper]](https://papers.nips.cc/paper/2648-semi-markov-conditional-random-fields-for-information-extraction)
 1. Xiaofeng Yu and Wai Lam. 2010. **Jointly identifying entities and extracting relations in encyclopedia text via a graphical model approach**. In Proceedings of ACL, pages 1399–1407. [[paper]](https://www.aclweb.org/anthology/C10-2160)
 
@@ -78,7 +78,18 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Zhen Wang, Jianwen Zhang, Jianlin Feng, and Zheng Chen. 2014. **Knowledge graph embedding by translating on hyperplanes**. In Proceedings of AAAI. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8531)
 1. Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, and Xuan Zhu. 2015. **Learning entity and relation embeddings for knowledge graph completion**. In Proceedings of AAAI. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9571/9523)
 
+### Neural Methods
 
+#### Recursive Neural Models
+
+1. Richard Socher, Brody Huval, Christopher D Manning,
+and Andrew Y Ng. 2012. Semantic compositionality
+through recursive matrix-vector spaces. In Proceedings
+of EMNLP, pages 1201–1211. [[paper]]()
+1. Makoto Miwa and Mohit Bansal. 2016. End-to-end relation
+extraction using lstms on sequences and tree
+structures. In Proceedings of ACL, pages 1105–
+1116. [[paper]]()
 
 
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
