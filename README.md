@@ -45,6 +45,41 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Ndapandula Nakashole, Gerhard Weikum, and Fabian Suchanek. 2012. **PATTY: A taxonomy of relational patterns with semantic types**. In Proceedings of EMNLP-CoNLL. [[paper]](https://www.aclweb.org/anthology/D12-1104)
 1. Shun Zheng, Xu Han, Yankai Lin, Peilin Yu, Lu Chen, Ling Huang, Zhiyuan Liu, and Wei Xu. 2019. **DIAG-NRE: A neural pattern diagnosis framework for distantly supervised neural relation extraction**. In Proceedings of ACL. [[paper]](https://doi.org/10.18653/v1/P19-1137)
 
+### Statistical Methods
+
+#### Feature-Based
+
+1. Nanda Kambhatla. 2004. **Combining lexical, syntactic, and semantic features with maximum entropy models for extracting relations**. [[paper]](https://www.aclweb.org/anthology/P04-3022.pdf)
+1. Guodong Zhou, Jian Su, Jie Zhang, and Min Zhang. 2005. **Exploring various knowledge in relation extraction**. In Proceedings of ACL, pages 427–434. [[paper]](https://www.aclweb.org/anthology/P05-1053)
+1. Jing Jiang and ChengXiang Zhai. 2007. **A systematic exploration of the feature space for relation extraction**. In Proceedings of NAACL, pages 113–120. [[paper]](https://www.aclweb.org/anthology/N07-1015.pdf)
+1. Dat PT Nguyen, Yutaka Matsuo, and Mitsuru Ishizuka. 2007. **Relation extraction from wikipedia using subtree mining**. In Proceedings of AAAI, pages 1414–1420. [[paper]](https://www.aaai.org/Papers/AAAI/2007/AAAI07-224.pdf)
+
+#### Kernel-Based
+
+1. Aron Culotta and Jeffrey Sorensen. 2004. **Dependency tree kernels for relation extraction**. In Proceedings of ACL, page 423. [[paper]](https://www.aclweb.org/anthology/P04-1054.pdf)
+1. Razvan C Bunescu and Raymond J Mooney. 2005. **A shortest path dependency kernel for relation extraction**. In Proceedings of EMNLP, pages 724–731. [[paper]](https://www.aclweb.org/anthology/H05-1091.pdf)
+1. Shubin Zhao and Ralph Grishman. 2005. **Extracting relations with integrated information using kernel methods**. In Proceedings of ACL, pages 419–426. [[paper]](https://www.aclweb.org/anthology/P05-1052.pdf)
+1. Raymond J Mooney and Razvan C Bunescu. 2006. **Subsequence kernels for relation extraction**. In Proceedings of NIPS, pages 171–178. [[paper]](https://papers.nips.cc/paper/2787-subsequence-kernels-for-relation-extraction.pdf)
+1. Min Zhang, Jie Zhang, Jian Su, and Guodong Zhou. 2006. **A composite kernel to extract relations between entities with both flat and structured features**. In Proceedings of ACL, pages 825–832. [[paper]](https://www.aclweb.org/anthology/P06-1104)
+1. Mengqiu Wang. 2008. **A re-examination of dependency path kernels for relation extraction**. In Proceedings of IJCNLP, pages 841–846. [[paper]](https://www.aclweb.org/anthology/I08-2119)
+
+#### Graphical Models
+
+1. Dan Roth andWen-tau Yih. 2002. **Probabilistic reasoning for entity & relation recognition**. In Proceedings of COLING. [[paper]](https://www.aclweb.org/anthology/C02-1151)
+1. Sunita Sarawagi and William W Cohen. 2005. **Semimarkov conditional random fields for information extraction**. In Proceedings of NIPS, pages 1185–1192. [[paper]](https://papers.nips.cc/paper/2648-semi-markov-conditional-random-fields-for-information-extraction)
+1. Xiaofeng Yu and Wai Lam. 2010. **Jointly identifying entities and extracting relations in encyclopedia text via a graphical model approach**. In Proceedings of ACL, pages 1399–1407. [[paper]](https://www.aclweb.org/anthology/C10-2160)
+
+#### Embedding Models
+
+1. Jason Weston, Antoine Bordes, Oksana Yakhnenko, and Nicolas Usunier. 2013. **Connecting language and knowledge bases with embedding models for relation extraction**. In Proceedings of EMNLP, pages 1366–1371. [[paper]](https://www.aclweb.org/anthology/D13-1136)
+1. Sebastian Riedel, Limin Yao, Andrew McCallum, and Benjamin M Marlin. 2013. **Relation extraction with matrix factorization and universal schemas**. In Proceedings of NAACL, pages 74–84. [[paper]](https://www.aclweb.org/anthology/N13-1008.pdf)
+1. Matthew R Gormley, Mo Yu, and Mark Dredze. 2015. **Improved relation extraction with feature-rich compositional embedding models**. In Proceedings of EMNLP, pages 1774–1784. [[paper]](https://www.aclweb.org/anthology/D15-1205.pdf)
+1. Antoine Bordes, Nicolas Usunier, Alberto Garcia- Duran, Jason Weston, and Oksana Yakhnenko. 2013. **Translating embeddings for modeling multirelational data**. In Proceedings of NIPS, pages 2787– 2795. [[paper]](https://papers.nips.cc/paper/5071-translating-embeddings-for-modeling-multi-relational-data.pdf)
+1. Zhen Wang, Jianwen Zhang, Jianlin Feng, and Zheng Chen. 2014. **Knowledge graph embedding by translating on hyperplanes**. In Proceedings of AAAI. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8531)
+1. Yankai Lin, Zhiyuan Liu, Maosong Sun, Yang Liu, and Xuan Zhu. 2015. **Learning entity and relation embeddings for knowledge graph completion**. In Proceedings of AAAI. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9571/9523)
+
+
+
 
 1. **SemEval-2010 Task 8: Multi-Way Classification of Semantic Relations Between Pairs of Nominals.**
    _Iris Hendrickx , Su Nam Kim, Zornitsa Kozareva, Preslav Nakov, Diarmuid O ́ Se ́aghdha, Sebastian Pado ́, Marco Pennacchiotti, Lorenza Romano, Stan Szpakowicz._
