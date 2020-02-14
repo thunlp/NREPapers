@@ -5,52 +5,43 @@ Contributed by [Tianyu Gao](https://github.com/gaotianyu1350) and [Xu Han](https
 
 We released [OpenNRE](https://github.com/thunlp/OpenNRE), an open-source framework for neural relation extraction. This repository provides several relation extraction methods and an easy-to-use training and testing framework.
 
+## Reviews
 
-
-## Survey Papers
-
+1. **A Review of Relation Extraction**
+   _Nguyen Bach, Sameer Badaskar_.
+   [[paper]](https://www.cs.cmu.edu/~nbach/papers/A-survey-on-Relation-Extraction.pdf)
 1. **A Survey of Deep Learning Methods for Relation Extraction.**
-   _Shantanu Kumar._
+   _Shantanu Kumar_.
    2017.
-   [paper](https://arxiv.org/pdf/1705.03645.pdf)
-
-2. **Relation Extraction : A Survey.**
-   _Sachin Pawara,b, Girish K. Palshikara, Pushpak Bhattacharyyab._
+   [[paper]](https://arxiv.org/pdf/1705.03645.pdf)
+1. **Relation Extraction : A Survey.**
+   _Sachin Pawar, Girish K. Palshikara, Pushpak Bhattacharyyab_.
    2017.
-   [paper](https://arxiv.org/pdf/1712.05191.pdf)
-
-
+   [[paper]](https://arxiv.org/pdf/1712.05191.pdf)
 
 ## Datasets
 
-### Supervised Datasets
+You can download most of the following datasets in `json` format from [OpenNRE](https://github.com/thunlp/OpenNRE).
 
-1. **ACE 2005 Dataset** [link](https://catalog.ldc.upenn.edu/LDC2006T06)
+### Sentence-Level Relation Extraction
 
-2. **SemEval-2010 Task 8 Dataset** [link](http://semeval2.fbk.eu/semeval2.php?location=tasks#T11)
+1. **ACE 2005 Dataset**. [[link]](https://catalog.ldc.upenn.edu/LDC2006T06) [[paper]](https://www.semanticscholar.org/paper/The-ACE-2005-(-ACE-05-)-Evaluation-Plan-Evaluation-Ntroduction/3a9b136ca1ab91592df36f148ef16095f74d009e)
+1. **SemEval-2010 Task 8 Dataset**. [[link]](http://semeval2.fbk.eu/semeval2.php?location=tasks#T11) [[paper]](https://www.aclweb.org/anthology/W09-2415)
+1. **TACREDD**. [[link]](https://nlp.stanford.edu/projects/tacred/) [[paper]](https://nlp.stanford.edu/pubs/zhang2017tacred.pdf)
 
-### Distantly Supervised Datasets
+### Distantly Supervised Relation Extraction Datasets
 
-1. **NYT Dataset** [link](http://iesl.cs.umass.edu/riedel/ecml/)
+1. **NYT Dataset**. [[link]](http://iesl.cs.umass.edu/riedel/ecml/) [[paper]](https://dl.acm.org/citation.cfm?id=1889799)
 
-### Few-shot Datasets
+### Few-shot Relation ExtractionDatasets
 
-1. **FewRel: A Large-Scale Supervised Few-Shot Relation Classification Dataset with State-of-the-Art Evaluation**
-   _Xu Han, Hao Zhu, Pengfei Yu, Ziyun Wang, Yuan Yao, Zhiyuan Liu, Maosong Sun_
-   EMNLP 2018.
-   [paper](http://aclweb.org/anthology/D18-1514)
+1. **FewRel**. [[link]](https://github.com/thunlp/fewrel) [[1.0 paper]](https://www.aclweb.org/anthology/D18-1514/) [[2.0 paper]](https://doi.org/10.18653/v1/D19-1649)
 
-     > We present a Few-Shot Relation Classification Dataset (FewRel), consisting of 70,000 sentences on 100 relations derived from Wikipedia and annotated by crowdworkers.
+### Document-Level Relation Extraction
 
-## Word Vector Tools
+1. **DocRED**. [link](https://github.com/thunlp/DocRED) [paper](https://www.aclweb.org/anthology/P19-1074/) 
 
-1. **Word2vec** [link](code.google.com/p/word2vec)
-
-2. **GloVe** [link](https://nlp.stanford.edu/projects/glove/)
-
-
-
-## Journal and Conference papers:
+## Papers
 
 ### Supervised Datasets
 
