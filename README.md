@@ -103,6 +103,7 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 
 1. Yuhao Zhang, Peng Qi, and Christopher D. Manning. 2018. **Graph convolution over pruned dependency trees improves relation extraction**. In Proceedings of EMNLP, pages 2205–2215. [[paper]](http://aclweb.org/anthology/D18-1244)
 1. Hao Zhu, Yankai Lin, Zhiyuan Liu, Jie Fu, Tat-Seng Chua, and Maosong Sun. 2019. **Graph neural networks with generated parameters for relation extraction**. In Proceedings of ACL, pages 1331–1339. [[paper]](https://doi.org/10.18653/v1/P19-1128)
+1. Zhijing Jin, Yongyi Yang, Xipeng Qiu, Zheng Zhang. 2020. **Relation of the Relations: A New Paradigm of the Relation Extraction Problem**. In Proceedings of EMNLP. [[paper]](https://arxiv.org/pdf/2006.03719.pdf)
 
 #### Attention
 
