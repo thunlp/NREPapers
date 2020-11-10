@@ -140,6 +140,7 @@ You can download most of the following datasets in `json` format from [OpenNRE](
 1. Mike Mintz, Steven Bills, Rion Snow, and Dan Jurafsky. 2009. **Distant supervision for relation extraction without labeled data**. In Proceedings of ACLIJCNLP, pages 1003–1011. [[paper]](https://www.aclweb.org/anthology/P09-1113.pdf)
 1. Truc-Vien T Nguyen and Alessandro Moschitti. 2011. **End-to-end relation extraction using distant supervision from external semantic repositories**. In Proceedings of ACL, pages 277–282. [[paper]](https://www.aclweb.org/anthology/P11-2048.pdf)
 1. Bonan Min, Ralph Grishman, Li Wan, Chang Wang, and David Gondek. 2013. **Distant supervision for relation extraction with an incomplete knowledge base**. In Proceedings of NAACL, pages 777–782. [[paper]](https://www.aclweb.org/anthology/N13-1095.pdf)
+1. Qinyuan Ye, Liyuan Liu, Maosen Zhang, and Xiang Ren. 2019. **Looking Beyond Label Noise: Shifted Label Distribution Matters in Distantly Supervised Relation Extraction**. In Proceedings of EMNLP, page 3841–3850. [[paper]](https://www.aclweb.org/anthology/D19-1397.pdf) 
 
 #### Selecting Informative Instances
 
